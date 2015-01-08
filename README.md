@@ -1,0 +1,1 @@
+This project has been setup for Aditya jois and Sai Eswar Garapati to learn about the intricacies of the HUB they call GIT.
